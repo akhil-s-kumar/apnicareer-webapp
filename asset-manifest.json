@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/apnicareer-webapp/static/css/main.ed29f10d.css",
-    "main.js": "/apnicareer-webapp/static/js/main.6238d5d8.js",
-    "static/media/Explore.png": "/apnicareer-webapp/static/media/Explore.b604987e8c1ca861032a.png",
-    "static/media/Home.png": "/apnicareer-webapp/static/media/Home.362098ef0c6596078cf5.png",
-    "static/media/Filter.png": "/apnicareer-webapp/static/media/Filter.bfc5b696561ca2d2c738.png",
-    "static/media/Gilroy-Regular.ttf": "/apnicareer-webapp/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
-    "static/media/Gilroy-Medium.ttf": "/apnicareer-webapp/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
-    "static/media/Gilroy-Bold.ttf": "/apnicareer-webapp/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
-    "static/media/Gilroy-Black.ttf": "/apnicareer-webapp/static/media/Gilroy-Black.3566c87fe5eaaa7052d5.ttf",
-    "index.html": "/apnicareer-webapp/index.html",
-    "main.ed29f10d.css.map": "/apnicareer-webapp/static/css/main.ed29f10d.css.map",
-    "main.6238d5d8.js.map": "/apnicareer-webapp/static/js/main.6238d5d8.js.map"
+    "main.css": "/static/css/main.aa652cb7.css",
+    "main.js": "/static/js/main.d3eaadd1.js",
+    "static/media/Explore.png": "/static/media/Explore.b604987e8c1ca861032a.png",
+    "static/media/Home.png": "/static/media/Home.362098ef0c6596078cf5.png",
+    "static/media/Filter.png": "/static/media/Filter.bfc5b696561ca2d2c738.png",
+    "static/media/Gilroy-Regular.ttf": "/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-Bold.ttf": "/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "static/media/Gilroy-Black.ttf": "/static/media/Gilroy-Black.3566c87fe5eaaa7052d5.ttf",
+    "index.html": "/index.html",
+    "main.aa652cb7.css.map": "/static/css/main.aa652cb7.css.map",
+    "main.d3eaadd1.js.map": "/static/js/main.d3eaadd1.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed29f10d.css",
-    "static/js/main.6238d5d8.js"
+    "static/css/main.aa652cb7.css",
+    "static/js/main.d3eaadd1.js"
   ]
 }
