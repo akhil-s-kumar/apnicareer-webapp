@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa652cb7.css",
-    "main.js": "/static/js/main.9971a026.js",
+    "main.css": "/static/css/main.f6dcebe6.css",
+    "main.js": "/static/js/main.d97f8941.js",
     "static/media/Explore.png": "/static/media/Explore.b604987e8c1ca861032a.png",
     "static/media/Home.png": "/static/media/Home.362098ef0c6596078cf5.png",
     "static/media/Filter.png": "/static/media/Filter.bfc5b696561ca2d2c738.png",
@@ -10,11 +10,11 @@
     "static/media/Gilroy-Bold.ttf": "/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
     "static/media/Gilroy-Black.ttf": "/static/media/Gilroy-Black.3566c87fe5eaaa7052d5.ttf",
     "index.html": "/index.html",
-    "main.aa652cb7.css.map": "/static/css/main.aa652cb7.css.map",
-    "main.9971a026.js.map": "/static/js/main.9971a026.js.map"
+    "main.f6dcebe6.css.map": "/static/css/main.f6dcebe6.css.map",
+    "main.d97f8941.js.map": "/static/js/main.d97f8941.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa652cb7.css",
-    "static/js/main.9971a026.js"
+    "static/css/main.f6dcebe6.css",
+    "static/js/main.d97f8941.js"
   ]
 }
