@@ -139,7 +139,8 @@ const JobSection = () => {
     if(jobsVisible>=length){
       alert("No more notifications available at this point of time :)")
     }else{
-      setJobVisible((preValue) => preValue + (length-preValue));
+      const showItemsOnLoad = 3;
+      setJobVisible((preValue) => preValue + showItemsOnLoad);
     }
   };
 
