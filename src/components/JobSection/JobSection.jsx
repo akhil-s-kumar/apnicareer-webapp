@@ -197,7 +197,8 @@ const JobSection = () => {
         <div className="container">
           <div className="row">
             <p className="resultShowing">
-              showing {jobsVisible} of {jobs.length} total results
+              showing {jobsVisible > jobs.length ?
+                jobs.length : jobsVisible} of {jobs.length} total results
             </p>
             {jobs.slice(0, jobsVisible).map((job, i) => {
               return (
